@@ -20,3 +20,4 @@ https://spotify-app-bmg.web.app/
 ### npm start
 
 to check in local http://localhost:3000/
+for local checkout redirect uri need to change as local in spotify.js
