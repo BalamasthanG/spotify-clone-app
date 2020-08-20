@@ -4,6 +4,8 @@ This is Spotify clone project Using React Js (Components).
 
 https://spotify-app-bmg.web.app/
 
+Note: Use chrome for better experience.
+
 ## Concepts Used
 
 1. Spotify Web api
